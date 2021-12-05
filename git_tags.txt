@@ -1,5 +1,6 @@
 1. Create a repository and push to github.
 - Login to GitHub and create a new repository
+- Used "git init" in terminal (Initialized empty Git repository in E:/Sandeep/vinsol_exercise/git-tags/.git/)
 
 2. Create two files in master branch, then create a tag 1.0.0 for first release from master.
 - Files created with using command (touch file_1.txt) (touch file_2.txt)
